@@ -1,6 +1,6 @@
-# AzDevBase
+# az-promise-utils
 
-A general purpose seed project base
+Some useful promise utilities
 
 Run `npm install`
 
